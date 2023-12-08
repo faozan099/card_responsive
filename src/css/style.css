@@ -25,6 +25,8 @@ body {
 }
 .container{
     padding: 16px 12px;
+    max-width: 600px;
+    margin: auto;
 }
 
 .containerCard{
@@ -46,5 +48,69 @@ body {
 }
 
 .containerDeskripsi{
+    padding: 18px;
+}
+
+.nameProduct{
+    font-family: var(--Monsterat);
+    margin-bottom: 12px;
+    color: var(--Neutral-Grayish-Blue);
+}
+
+.title{
+    font-family: var(--Fraunces);
+    font-weight: 700;
+    font-size: 42px;
+    margin-bottom: 12px;
+    color: var(--Neutral-Very-Dark-Blue);
+}
+
+.description{
+    font-family: var(--Monsterat);
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--Neutral-Grayish-Blue);
+}
+
+.price{
+    display: flex;
+    align-items: center;
+    gap: 18px;
     padding: 12px;
+}
+
+.discount{
+    color: var(--Primary-Dark-Cyan);
+    font-size: 42px;
+    font-weight: 700;
+    font-family: var(--Fraunces);
+}
+
+.normalPrice{
+    font-size: 18px;
+    text-decoration: line-through;
+    color: var(--Neutral-Grayish-Blue);
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 12px;
+}
+button{
+    width: 95%;
+    margin: auto;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    background-color: var(--Primary-Dark-Cyan);
+    color: var(--Primari-Cream);
+    font-weight: 700;
+    font-family: var(--Monsterat);
+}
+
+button img{
+    margin: 0 8px;
+    width: 20px;
 }
