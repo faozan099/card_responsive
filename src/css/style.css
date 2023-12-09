@@ -23,9 +23,10 @@ body {
     box-sizing: border-box;
     background-color: var(--Primari-Cream);
 }
+
 .container{
     padding: 16px 12px;
-    max-width: 600px;
+    max-width: var(--Mobile);
     margin: auto;
 }
 
@@ -76,7 +77,7 @@ body {
     display: flex;
     align-items: center;
     gap: 18px;
-    padding: 12px;
+    padding: 8px 20px;
 }
 
 .discount{
@@ -93,16 +94,19 @@ body {
 }
 
 .button{
+    justify-content: center;
+    padding: 22px 12px;
+}
+
+button{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 12px 12px;
-}
-button{
     width: 95%;
     margin: auto;
     padding: 12px;
     border-radius: 8px;
+    font-size: 18px;
     border: none;
     background-color: var(--Primary-Dark-Cyan);
     color: var(--Primari-Cream);
@@ -112,5 +116,9 @@ button{
 
 button img{
     margin: 0 8px;
-    width: 20px;
+    width: 22px;
+}
+
+.butto button:hover{
+    background-color: hsl(158, 36%, 37%);;
 }
