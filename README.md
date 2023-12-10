@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./images/image-product-mobile.jpg)
-![Dekstop](./images/image-product-desktop.jpg)
+- Mobile: ![Mobile](/design/mobile-design.jpg)
+- Dekstop: ![Dekstop](/design/desktop-preview.jpg)
 
 ### Links
 
