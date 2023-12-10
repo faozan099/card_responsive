@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [w3school](https://www.w3schools.com/css/default.asp)
+- Live Site URL: [Preview](https://card-component-parfume.netlify.app/)
 
 ## My process
 
@@ -60,6 +60,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Preview](https://card-component-parfume.netlify.app/)
 - Frontend Mentor - faozan099(https://www.frontendmentor.io/profile/faozan099)
 - LinkedIn - [Muhammad Faozan](www.linkedin.com/in/muhammad-faozan)
