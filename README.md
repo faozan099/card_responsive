@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Mobile](./images/image-product-mobile.jpg)
+![Dekstop](./images/image-product-desktop.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [w3school](https://www.w3schools.com/css/default.asp)
 
 ## My process
 
@@ -60,6 +60,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Preview](https://card-component-parfume.netlify.app/)
+- Frontend Mentor - faozan099(https://www.frontendmentor.io/profile/faozan099)
+- LinkedIn - [Muhammad Faozan](www.linkedin.com/in/muhammad-faozan)
