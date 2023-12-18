@@ -60,4 +60,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - faozan099(https://www.frontendmentor.io/profile/faozan099)
-- LinkedIn - [Muhammad Faozan](www.linkedin.com/in/muhammad-faozan)
+- LinkedIn - [Muhammad Faozan](https://www.linkedin.com/in/muhammad-faozan)
